@@ -1,8 +1,10 @@
 
-# TrustGraph REST API notebooks
+# TrustGraph REST API Notebooks
 
-TrustGraph provides an API gateway which serves HTTP on port 8088 which
-exposes many internal services to REST APIs.  The notebooks 
+TrustGraph provides an API gateway which serves HTTP on port `8088` which exposes many internal services to REST APIs.
+
+> [!NOTE]
+> TrustGraph must be running prior to using the REST API. Follow the [Getting Started Guide](https://trustgraph.ai/docs/getstarted) or the deployment instructions in the [Configuration UI](https://config-ui.demo.trustgraph.ai/) to launch TrustGraph with either Docker, Podman, Minikube, or Google Cloud.
 
 ## Notebooks
 
