@@ -5,6 +5,8 @@ TrustGraph provides a Python SDK installed with the TrustGraph CLI. Install the 
 ```
 pip install trustgraph-cli
 ```
+> [!NOTE]
+> TrustGraph must be running prior to using the Python SDK. Follow the [Getting Started Guide](https://trustgraph.ai/docs/getstarted) or the deployment instructions in the [Configuration UI](https://config-ui.demo.trustgraph.ai/) to launch TrustGraph with either Docker, Podman, Minikube, or Google Cloud.
 
 ## Notebooks
 
